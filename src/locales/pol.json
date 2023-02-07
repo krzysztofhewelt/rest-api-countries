@@ -1,0 +1,44 @@
+{
+  "locale": {
+    "eng": "Angielski",
+    "pol": "Polski"
+  },
+  "system": {
+    "lightMode": "Tryb jasny",
+    "darkMode": "Tryb ciemny",
+    "title": "Państwa świata",
+    "show": "Pokaż",
+    "back": "Powrót"
+  },
+  "searchFilter": {
+    "searchByCountries": "Szukaj państw...",
+    "filterByRegion": "Szukaj po regionie",
+    "regions": {
+      "all": "Wszystkie",
+      "antarctic": "Antarktyda",
+      "africa": "Afryka",
+      "americas": "Ameryki",
+      "asia": "Azja",
+      "europe": "Europa",
+      "oceania": "Oceania"
+    }
+  },
+  "countries": {
+    "loadingCountries": "Trwa ładowanie państw...",
+    "loadingCountry": "Trwa ładowanie państwa...",
+    "noCountries": "Nie znaleziono państw.",
+    "noCountry": "Nie znaleziono państwa.",
+    "information": {
+      "officialName": "Oficjalna nazwa",
+      "population": "Populacja",
+      "area": "Powierzchnia",
+      "region": "Region",
+      "subregion": "Subregion",
+      "capital": "Brak stolicy | Stolica | Stolice",
+      "languages": "Język | Języki",
+      "currencies": "Waluta | Waluty",
+      "locationOnTheMap": "Lokalizacja na mapie",
+      "borderCountries": "Kraje sąsiednie"
+    }
+  }
+}

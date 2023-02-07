@@ -1,0 +1,44 @@
+{
+  "locale": {
+    "eng": "English",
+    "pol": "Polish"
+  },
+  "system": {
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "title": "Where in the world?",
+    "show": "Show",
+    "back": "Back"
+  },
+  "searchFilter": {
+    "searchByCountries": "Search for countries...",
+    "filterByRegion": "Filter by region",
+    "regions": {
+      "all": "All",
+      "antarctic": "Antarctic",
+      "africa": "Africa",
+      "americas": "Americas",
+      "asia": "Asia",
+      "europe": "Europe",
+      "oceania": "Oceania"
+    }
+  },
+  "countries": {
+    "loadingCountries": "Loading countries...",
+    "loadingCountry": "Loading country...",
+    "noCountries": "No countries found.",
+    "noCountry": "No country found.",
+    "information": {
+      "officialName": "Official name",
+      "population": "Population",
+      "area": "Area",
+      "region": "Region",
+      "subregion": "Subregion",
+      "capital": "No capital | Capital | Capitals",
+      "languages": "Language | Languages",
+      "currencies": "Currency | Currencies",
+      "locationOnTheMap": "Location on the map",
+      "borderCountries": "Border countries"
+    }
+  }
+}
