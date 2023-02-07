@@ -26,7 +26,7 @@ Simple and responsive website about countries using REST Countries API with colo
 # Getting started
 1. Clone this repo
 ```
-git clone xxxx
+git clone https://github.com/krzysztofhewelt/rest-api-countries
 ```
 2. Install dependencies
 ```
