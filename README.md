@@ -10,7 +10,7 @@ Simple and responsive website about countries using REST Countries API with colo
 <p align="center">
     <a href="#features">Features</a>&nbsp;&nbsp; | &nbsp;
     <a href="#getting-started">Getting started</a>&nbsp; | &nbsp;
-    <a href="#used-technologies">Technologies</a>&nbsp; | &nbsp; 
+    <a href="#used-technologies-and-tools">Technologies and tools</a>&nbsp; | &nbsp; 
     <a href="#screenshots">Screenshots</a>&nbsp; | &nbsp;
     <a href="#license">License</a>
 </p>
