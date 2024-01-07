@@ -52,15 +52,12 @@ npm run dev
 - IDE: Jetbrains WebStorm
 
 # Screenshots
-<details>
-    <summary>Click to show</summary>
-    <img src="screenshots/main_light.png" alt="main page light">
-    <img src="screenshots/main_polish.png" alt="main page polish">
-    <img src="screenshots/search.png" alt="search">
-    <img src="screenshots/country_details.png" alt="country details">
-    <img src="screenshots/responsive_main.png" alt="responsive main page">
-    <img src="screenshots/responsive_country_details.png" alt="responsive country details">
-</details>
+<img src="screenshots/main_light.png" alt="main page light">
+<img src="screenshots/main_polish.png" alt="main page polish">
+<img src="screenshots/search.png" alt="search">
+<img src="screenshots/country_details.png" alt="country details">
+<img src="screenshots/responsive_main.png" alt="responsive main page">
+<img src="screenshots/responsive_country_details.png" alt="responsive country details">
 
 # License
 Distributed under the MIT License.
